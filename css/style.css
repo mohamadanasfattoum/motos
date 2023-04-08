@@ -1,0 +1,7 @@
+.Domains{
+
+}
+
+.card:hover .card-img {ttransform: scale(1.2);}
+.card{overflow: hidden;
+    transition: all .2s;}
